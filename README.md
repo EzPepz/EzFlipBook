@@ -1,7 +1,5 @@
 # EzFlipBook
 
-#### Video Demo: <https://youtu.be/o9e6dGF51kQ>
-
 #### Description:
 
 EzFlipBook is a small, light-weight app to convert image-sequences in .mp4 video file.
