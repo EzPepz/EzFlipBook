@@ -8,7 +8,7 @@ It accepts 4 different image formats (tif, jpg, tga and png) and allows the user
 
 ## How to Use it
 
-- Select the input image sequence
+- Select the input image sequence (you just need to select a randome file from the correct sequence)
 - Select the output folder and name
 - Choose your export settings
 - Press the Convert Button
