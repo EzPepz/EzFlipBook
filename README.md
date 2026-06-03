@@ -5,6 +5,8 @@
 EzFlipBook is a small, light-weight app to convert image-sequences in .mp4 video file.
 It accepts 4 different image formats (tif, jpg, tga and png) and allows the user to specify some basic settings like bitrate, fps and resolution.
 
+> **Windows may flag the installer as unrecognized — this is a false positive common with indie apps. Click 'More info' → 'Run anyway' to proceed.**
+
 
 ## How to Use it
 
