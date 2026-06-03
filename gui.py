@@ -1,4 +1,5 @@
 import customtkinter as ctk
+ctk.set_appearance_mode("dark")
 
 from project import BORDERS, COLORS, update_recap, on_input_selected
 from classes import *
